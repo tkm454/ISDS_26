@@ -15,3 +15,5 @@ First run the `PGAproject_2023`, then `PGAproject_2022`. The difference between 
 The project is about: 
 
 ![Alt Text](https://github.com/tkm454/ISDS_26/blob/main/pga-tour-vector-logo-2022.png)
+
+From a social data science perspective. 
